@@ -105,8 +105,6 @@ El mismo patrón funciona con `problema3`.
 
 ## Límite de tiempo
 
-Las mediciones tienen un límite cooperativo de 3 segundos por ejecución. Si un caso no termina antes de ese límite, se registra como `TIMEOUT` en la tabla y en el CSV, sin inventar un tiempo de ejecución. Los puntos con `TIMEOUT` no se dibujan en la gráfica. Puede cambiarse el valor de `LIMITE_TIEMPO_SEGUNDOS` en el archivo del problema si se desea realizar una corrida más larga.
-
 Los resultados dependen del hardware, el sistema operativo, la versión de Python y la carga de la computadora durante la ejecución.
 
 ## Video de demostración

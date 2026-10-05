@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 VALORES_N = [1, 10, 100, 1_000, 10_000, 100_000, 1_000_000]
-LIMITE_TIEMPO_SEGUNDOS = 3.0
+LIMITE_TIEMPO_SEGUNDOS = 45.0
 DIRECTORIO_RESULTADOS = Path(__file__).resolve().parent / "resultados" / "problema1"
 
 
